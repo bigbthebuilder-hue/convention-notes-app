@@ -1,4 +1,4 @@
-const CACHE_NAME = "eternal-happiness-notes-cache-v10-no-duplicate-banner-text";
+const CACHE_NAME = "eternal-happiness-notes-cache-v11-wider-tablet";
 const ASSETS = [
   "./",
   "./index.html",

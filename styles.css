@@ -468,3 +468,31 @@ body {
   .art-banner { border-radius: 22px; }
   .home-art, .review-art { margin-left: -4px; margin-right: -4px; }
 }
+
+
+/* V11: wider tablet layout while keeping phone layout unchanged. */
+@media (min-width: 760px) {
+  .app-shell {
+    max-width: 1120px;
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  .bottom-tabs {
+    width: min(1120px, 100%);
+  }
+
+  .note-area {
+    min-height: 170px;
+  }
+}
+
+@media (min-width: 1100px) {
+  .app-shell {
+    max-width: 1240px;
+  }
+
+  .bottom-tabs {
+    width: min(1240px, 100%);
+  }
+}
