@@ -1,4 +1,4 @@
-const CACHE_NAME = "eternal-happiness-notes-cache-v11-wider-tablet";
+const CACHE_NAME = 'eternal-happiness-notes-v12';
 const ASSETS = [
   "./",
   "./index.html",

@@ -73,8 +73,10 @@ V9 changes:
 V10: Home and Review banners now use prepared images directly with no extra app text overlay.
 
 
-V11 update:
+V12 update:
 - Keeps the phone-first layout.
 - Widens the main content area on tablets and larger screens.
 - Keeps note boxes full width for maximum typing room.
 - Updates the service worker cache name so deployed users can receive the new layout.
+
+V12 change: Removed the portrait orientation lock from the app manifest so tablets and phones can rotate between portrait and landscape when the device allows rotation.
