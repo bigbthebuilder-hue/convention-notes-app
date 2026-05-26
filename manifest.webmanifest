@@ -1,7 +1,7 @@
 {
-  "name": "Eternal Happiness Notes",
-  "short_name": "EH Notes",
-  "description": "Offline-first convention program note app.",
+  "name": "2026 Convention Notes",
+  "short_name": "Convention Notes",
+  "description": "Offline-first 2026 convention program note app.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

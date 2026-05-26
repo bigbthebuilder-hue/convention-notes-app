@@ -546,7 +546,7 @@ function renderBackup() {
 
 function exportBackup() {
   const payload = {
-    app: "Eternal Happiness Notes",
+    app: "2026 Convention Notes",
     version: 2,
     exportedAt: new Date().toISOString(),
     notes: Object.values(notes).filter(n => (n.text || "").trim())

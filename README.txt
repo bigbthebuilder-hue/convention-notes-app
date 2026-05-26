@@ -80,3 +80,9 @@ V12 update:
 - Updates the service worker cache name so deployed users can receive the new layout.
 
 V12 change: Removed the portrait orientation lock from the app manifest so tablets and phones can rotate between portrait and landscape when the device allows rotation.
+
+
+V13 update:
+- Installed app name changed to Convention Notes.
+- New cleaner Convention Notes app icon added.
+- Note database name was left unchanged so existing saved notes should remain on the same device/domain.
